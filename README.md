@@ -852,15 +852,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## Credits & Links
-
-- Author: Kishanu Mondal
-- GitHub: https://github.com/kxnux-builds
-- LinkedIn: https://www.linkedin.com/in/kishanu-mondal/
-- X (Twitter): https://x.com/Kxnux_Dev
-
----
-
 ## 📞 Support & Issues
 
 Found a bug or have a question?
@@ -868,16 +859,11 @@ Found a bug or have a question?
 - 🐛 **Report Issues**: [GitHub Issues](https://github.com/kxnux-builds/employees-crud-null-handling/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/kxnux-builds/employees-crud-null-handling/discussions)
 
----
+## Credits & Links
 
-## 🙏 Acknowledgments
+- Author: Kishanu Mondal
+- GitHub: https://github.com/kxnux-builds
+- LinkedIn: https://www.linkedin.com/in/kishanu-mondal/
+- X (Twitter): https://x.com/Kxnux_Dev
 
-This project was created as an educational resource demonstrating:
-- Professional database design
-- CRUD operation best practices
-- Real-world NULL handling scenarios
-- Clean, maintainable SQL code
 
-Perfect for students, developers, and database administrators learning MySQL fundamentals.
-
----
